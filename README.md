@@ -1,6 +1,4 @@
-# GDN
-
-Code implementation for : [Graph Neural Network-based Multivariate Fault Detection for Wind Turbines Using SCADA Data]
+# Code implementation for : [Graph Neural Network-based Multivariate Fault Detection for Wind Turbines Using SCADA Data]
 
 
 # Installation
