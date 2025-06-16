@@ -1,4 +1,4 @@
-# Code implementation for : [Multivariate Fault Detection for Wind Turbines Using a Novel Graph Neural Network with Physical Domain Knowledge and SCADA Data]
+# Code implementation for : [Graph-Structured SCADA Data Guided Fault Detection with Propagation Analysis in Wind Turbines]
 
 
 # Installation
